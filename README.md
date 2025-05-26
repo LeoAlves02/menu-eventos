@@ -1,5 +1,7 @@
 # 📅 Menu de Eventos
 
+<img src="images/1.PNG" alt="Enunciado da atividade." width="600" height="300"/>
+
 Projeto acadêmico para gerenciamento de eventos, usuários e participações, desenvolvido em **Java 21**, **Maven** e **Spring Boot**. Este sistema salva os dados diretamente em arquivos `.data` (eventos.data, usuarios.data, participacoes.data), que são gerados ao finalizar o programa, garantindo persistência local simples, sem uso de banco de dados.
 
 ---
